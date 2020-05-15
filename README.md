@@ -16,7 +16,7 @@
 * Tkinter
 
 ## How To Use
-  The python source code fill is main.py. You can directly use this file to run the Calculator. Alternatively, an exe file is also present in dist folder named main.exe, you can use this exe to run the calculator in Windows OS.
+  The python source code file is main.py. You can directly use this file to run the Calculator. Alternatively, an exe file is also present in dist folder named main.exe, you can use this exe to run the calculator in Windows OS.
   
 ## Author
 Ankush Kamboj
