@@ -9,7 +9,7 @@
 * [Illustrations](#illustrations)
 
 ## General Info
-  The aim of this project was to create a basic calculator. The app has in-build keypad. It has a clean and simple UI. The app is created in python3 and the Gui is made with tkinter. You can perform basic operations like addition, subtraction, multiplication and division. You can write an expression in the textbox and press the equal to get the result.
+  The aim of this project was to create a basic calculator. The app has in-build keypad. It has a clean and simple UI. The app is created in python3 and the Gui is made with tkinter. You can perform basic operations like addition, subtraction, multiplication and division. You can write an expression in the textbox and press the equal button to get the result.
   
 ## Technologies
 * Python3
@@ -22,5 +22,4 @@
 Ankush Kamboj
 
 ## Illustrations
-![Alt text](https://github.com/Ankush-Kamboj/Phone_Dialer/blob/master/Screenshot1.jpg?raw=true "Phone-Dialer")
-![Alt text](https://github.com/Ankush-Kamboj/Phone_Dialer/blob/master/Screenshot2.jpg?raw=true "Phone-Dialer")
+![Alt text](https://https://github.com/Ankush-Kamboj/CalculatorGui/blob/master/Screenshot1.PNG?raw=true "Calculator")
