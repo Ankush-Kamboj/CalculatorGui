@@ -22,4 +22,4 @@
 Ankush Kamboj
 
 ## Illustrations
-![Alt text](https://https://github.com/Ankush-Kamboj/CalculatorGui/blob/master/Screenshot1.PNG?raw=true "Calculator")
+![Alt text](https://github.com/Ankush-Kamboj/CalculatorGui/blob/master/Screenshot1.PNG?raw=true "Calculator")
